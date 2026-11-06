@@ -6,6 +6,7 @@ Undergraduate thesis, Department of Computer Science & Engineering, Internationa
 
 - Thesis book: [docs/undergraduate_thesis.pdf](docs/undergraduate_thesis.pdf)
 - Short report (IEEE format): [docs/short_report.pdf](docs/short_report.pdf)
+- Thesis Presentation: [docs/thesis_presentation.pptx](docs/thesis_presentation.pptx)
 - Dataset (CSV): [Kaggle](https://www.kaggle.com/datasets/a4b5c603f9d4023b9ec9ab443860386304f38e3112758ffd0cf1cf1bdaddb580?select=simulation_parameters.csv)
 
 ## Team
